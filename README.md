@@ -13,6 +13,6 @@ Hanya Pelajar Yang Sedang Belajar:)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K4Tonn&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=K4Tonn&icon=8&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=K4Tonn&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
