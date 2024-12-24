@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Bismillahirrahmanirrahim
+
 Hanya Pelajar Yang Sedang Belajar:)
 
 - 🔭 I’m currently working on ...
