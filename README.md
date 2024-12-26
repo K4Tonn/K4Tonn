@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
 
-Hanya Pelajar Yang Sedang Belajar:)
+Hanya Pelajar Yang Sedang Belajar
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
